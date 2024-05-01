@@ -592,7 +592,7 @@
 
 /* SPEC PRODUCT */
 
-.home_page .spec_product_frame {
+.home_page .space_product_frame {
     position: relative;
     margin-top: 90px;
     width: 100%;
@@ -783,4 +783,3 @@
     align-items: center;
 }
 
-.product_content_box
