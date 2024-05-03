@@ -1,5 +1,4 @@
 .home_page {
-    padding-bottom: 60px;
     display: flex;
     flex-direction: column;
 }
@@ -798,6 +797,7 @@
     justify-content: center;
     background-color: darkblue;
     background-image: url(/public/images/Event.png);
+    background-size: cover;
 }
 
 .event_frame .container {
