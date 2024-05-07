@@ -520,3 +520,34 @@ p {
     font-size: 14px;
     color: #041e42;
 }
+
+/* PAGE ROUTER */
+.page_rooter {
+    margin: 20px 0px;
+    width: 1320px;
+}
+
+.page_rooter span {
+    font-family: var(--font);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+
+    color: #041e42;
+}
+
+.page_rooter span.drop {
+    margin: 0px 10px;
+}
+
+.page_rooter span.active {
+    font-family: var(--font);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+
+    color: #626974;
+}
+
